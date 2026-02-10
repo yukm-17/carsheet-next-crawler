@@ -1,4 +1,4 @@
-## Front-end
+## How I Work
 
 - Supabase(PostgreSQL) Free 플랜 이용
 - Wikimedia 및 제조사 공식 이미지 크롤링
